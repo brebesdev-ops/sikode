@@ -1,0 +1,7 @@
+* text=auto
+*.css linguist-vendored
+*.scss linguist-vendored
+*.js linguist-vendored
+[core]
+	autocrlf = false
+CHANGELOG.md export-ignore
