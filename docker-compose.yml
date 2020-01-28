@@ -38,7 +38,7 @@ services:
   #     - "MYSQL_PASSWORD=phpmyadmin"
   #     - "MYSQL_ROOT_PASSWORD=yomanyongcrew."
   #   ports:
-  #     - 8002:3306
+  #     - 800x:3306
 
 # volumes:
 #   dbdata:
