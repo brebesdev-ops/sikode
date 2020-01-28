@@ -24,7 +24,7 @@ services:
     volumes:
       - ./storage/logs/:/var/log/nginx
     ports:
-      - 4000:80
+      - 8002:80
 
 # The Database
   # database:
@@ -38,7 +38,7 @@ services:
   #     - "MYSQL_PASSWORD=phpmyadmin"
   #     - "MYSQL_ROOT_PASSWORD=yomanyongcrew."
   #   ports:
-  #     - 4001:3306
+  #     - 8002:3306
 
 # volumes:
 #   dbdata:
