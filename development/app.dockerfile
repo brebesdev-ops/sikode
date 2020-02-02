@@ -13,7 +13,7 @@ WORKDIR /var/www
 RUN apt-get update && apt-get -y install git && apt-get -y install zip
 
 RUN php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');" \
-    && php -r "if (hash_file('SHA384', 'composer-setup.php') === 'a5c698ffe4b8e849a443b120cd5ba38043260d5c4023dbf93e1558871f1f07f58274fc6f4c93bcfd858c6bd0775cd8d1') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;" \
+    && php -r "if (hash_file('sha384', 'composer-setup.php') === 'c5b9b6d368201a9db6f74e2611495f369991b72d9c8cbd3ffbc63edff210eb73d46ffbfce88669ad33695ef77dc76976') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"\
     && php composer-setup.php \
     && php -r "unlink('composer-setup.php');" \
     && php composer.phar install --no-dev --no-scripts \
@@ -21,8 +21,8 @@ RUN php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');" \
 
 COPY . /var/www
 
-RUN chown -R www-data:www-data /var/www/storage 
-RUN chown -R www-data:www-data /var/www/bootstrap/cache
+RUN chown -R www-data:www-data  /var/www/storage/
+RUN chown -R www-data:www-data  /var/www/bootstrap/cache/
 
 RUN  apt-get install -y libmcrypt-dev \
         libmagickwand-dev --no-install-recommends \
@@ -32,5 +32,7 @@ RUN  apt-get install -y libmcrypt-dev \
 
 RUN mv .env.prod .env
 
+
 RUN APP_KEY=base64:t1Otp0OeegWuO/WBrsIrGseYOl+JwPs6l9YDpFRvRTw=
 RUN php artisan config:cache
+
