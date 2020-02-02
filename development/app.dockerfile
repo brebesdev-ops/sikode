@@ -32,4 +32,7 @@ RUN  apt-get install -y libmcrypt-dev \
 
 RUN mv .env.prod .env
 
-RUN php artisan key:generate
+
+RUN APP_KEY=base64:t1Otp0OeegWuO/WBrsIrGseYOl+JwPs6l9YDpFRvRTw=
+RUN php artisan config:cache
+
