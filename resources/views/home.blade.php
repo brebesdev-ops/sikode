@@ -186,7 +186,7 @@
                         <!-- End Person Photo -->
                         <!-- Start Person Info -->
                         <div class="team-prof">
-                            <h3 class="post-title">Didin Afifudin</h3>
+                            <h3 class="post-title">Didin Afifudin </h3>
                             <span class="post">UX/UI Designer | Front-End</span>
                             <!-- Start Person Social -->
                             <div class="social-team text-center">
@@ -322,7 +322,7 @@
                         <!-- End Person Photo -->
                         <!-- Start Person Info -->
                         <div class="team-prof">
-                            <h3 class="post-title">Ahmad Mabruri</h3>
+                            <h3 class="post-title">Ahmad Mabruri S</h3>
                             <span class="post">Marketing | Management</span>
                             <!-- Start Person Social -->
                             <div class="social-team text-center">
