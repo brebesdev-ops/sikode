@@ -200,6 +200,115 @@
                     </div>
                 </div>
                 <!-- End Single Person -->
+                
+
+                <!-- Start Single Person -->
+                <div class="col-md-3 col-sm-6 fix-width-right wow fadeInUp" data-wow-delay="0.8s"
+                    data-wow-duration="1s">
+                    <div class="team">
+                        <div class="team-overlay"></div>
+                        <!-- Start Person Photo -->
+                        <div class="pic">
+                            <img src="assets/img/team/ahmad.jpeg" alt="Applora" class="img-responsive">
+                        </div>
+                        <!-- End Person Photo -->
+                        <!-- Start Person Info -->
+                        <div class="team-prof">
+                            <h3 class="post-title">Ahmad Mabruri</h3>
+                            <span class="post">Marketing | Management</span>
+                            <!-- Start Person Social -->
+                            <div class="social-team text-center">
+                                <span class="applora-social-links"><a href="#"><i class='fa fa-facebook'></i></a></span>
+                                <span class="applora-social-links"><a href="#"><i class='fa fa-twitter'></i></a></span>
+                                <span class="applora-social-links"><a href="#"><i class='fa fa-behance'></i></a></span>
+                            </div>
+                            <!-- End Person Social -->
+                        </div>
+                        <!-- End Person Info -->
+                    </div>
+                </div>
+                <!-- End Single Person -->
+            </div>
+            <div class="row">
+                <!-- Start Single Person -->
+                <div class="col-md-3 col-sm-6 fix-width-left wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1s">
+                    <div class="team">
+                        <div class="team-overlay"></div>
+                        <!-- Start Person Photo -->
+                        <div class="pic">
+                            <img src="assets/img/team/syahril.JPG" alt="Applora" class="img-responsive">
+                        </div>
+                        <!-- End Person Photo -->
+                        <!-- Start Person Info -->
+                        <div class="team-prof">
+                            <h3 class="post-title">Syahril Irfani Fattah</h3>
+                            <span class="post">Founder | FullStack Developer </span>
+                            <!-- Start Person Social -->
+                            <div class="social-team text-center">
+                                <span class="applora-social-links"><a href="#"><i class='fa fa-facebook'></i></a></span>
+                                <span class="applora-social-links"><a href="#"><i class='fa fa-twitter'></i></a></span>
+                                <span class="applora-social-links"><a href="#"><i class='fa fa-behance'></i></a></span>
+                            </div>
+                            <!-- End Person Social -->
+                        </div>
+                        <!-- End Person Info -->
+                    </div>
+                </div>
+                <!-- End Single Person -->
+
+                <!-- Start Single Person -->
+                <div class="col-md-3 col-sm-6 fix-width-right wow fadeInUp" data-wow-delay="0.4s"
+                    data-wow-duration="1s">
+                    <div class="team">
+                        <div class="team-overlay"></div>
+                        <!-- Start Person Photo -->
+                        <div class="pic">
+                            <img src="assets/img/team/dion_nugraha.jpeg" alt="Applora" class="img-responsive">
+                        </div>
+                        <!-- End Person Photo -->
+                        <!-- Start Person Info -->
+                        <div class="team-prof">
+                            <h3 class="post-title">Dion Nugraha </h3>
+                            <span class="post">Co-Founder | FullStack Developer </span>
+                            <!-- Start Person Social -->
+                            <div class="social-team text-center">
+                                <span class="applora-social-links"><a href="#"><i class='fa fa-facebook'></i></a></span>
+                                <span class="applora-social-links"><a href="#"><i class='fa fa-twitter'></i></a></span>
+                                <span class="applora-social-links"><a href="#"><i class='fa fa-behance'></i></a></span>
+                            </div>
+                            <!-- End Person Social -->
+                        </div>
+                        <!-- End Person Info -->
+                    </div>
+                </div>
+                <!-- End Single Person -->
+
+                <!-- Start Single Person -->
+                <div class="col-md-3 col-sm-6 fix-width-left wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1s">
+                    <div class="team">
+                        <div class="team-overlay"></div>
+                        <!-- Start Person Photo -->
+                        <div class="pic">
+                            <img src="assets/img/team/didin.jpeg" alt="Applora" class="img-responsive">
+                        </div>
+                        <!-- End Person Photo -->
+                        <!-- Start Person Info -->
+                        <div class="team-prof">
+                            <h3 class="post-title">Didin Afifudin</h3>
+                            <span class="post">UX/UI Designer | Front-End</span>
+                            <!-- Start Person Social -->
+                            <div class="social-team text-center">
+                                <span class="applora-social-links"><a href="#"><i class='fa fa-facebook'></i></a></span>
+                                <span class="applora-social-links"><a href="#"><i class='fa fa-twitter'></i></a></span>
+                                <span class="applora-social-links"><a href="#"><i class='fa fa-behance'></i></a></span>
+                            </div>
+                            <!-- End Person Social -->
+                        </div>
+                        <!-- End Person Info -->
+                    </div>
+                </div>
+                <!-- End Single Person -->
+                
 
                 <!-- Start Single Person -->
                 <div class="col-md-3 col-sm-6 fix-width-right wow fadeInUp" data-wow-delay="0.8s"
@@ -245,20 +354,20 @@
             </div>
             <div class=row>
                 <div class=screenshots-slider>
-                    <div class=screenshot-item><img alt="App Landing Page" src=/assets/img/demo-1/demo1.jpeg> <div
-                            class=screenshot-overlay><a href=/assets/img/demo-1/demo1.jpeg> <i
+                    <div class=screenshot-item><img alt="App Landing Page" src=/assets/img/demo-1/demo1.png> <div
+                            class=screenshot-overlay><a href=/assets/img/demo-1/demo1.png> <i
                             class="icofont circled-icon icofont-image"></i></a></div>
                 </div>
-                <div class=screenshot-item><img alt="App Landing Page" src=/assets/img/demo-1/demo2.jpeg> <div
-                        class=screenshot-overlay><a href=/assets/img/demo-1/demo2.jpeg> <i
+                <div class=screenshot-item><img alt="App Landing Page" src=/assets/img/demo-1/demo2.png> <div
+                        class=screenshot-overlay><a href=/assets/img/demo-1/demo2.png> <i
                         class="icofont circled-icon icofont-image"></i></a></div>
             </div>
-            <div class=screenshot-item><img alt="App Landing Page" src=/assets/img/demo-1/demo3.jpeg> <div
-                    class=screenshot-overlay><a href=/assets/img/demo-1/demo3.jpeg> <i
+            <div class=screenshot-item><img alt="App Landing Page" src=/assets/img/demo-1/demo3.png> <div
+                    class=screenshot-overlay><a href=/assets/img/demo-1/demo3.png> <i
                     class="icofont circled-icon icofont-image"></i></a></div>
         </div>
-        <div class=screenshot-item><img alt="App Landing Page" src=/assets/img/demo-1/demo4.jpeg> <div
-                class=screenshot-overlay><a href=/assets/img/demo-1/demo4.jpeg> <i
+        <div class=screenshot-item><img alt="App Landing Page" src=/assets/img/demo-1/demo4.png> <div
+                class=screenshot-overlay><a href=/assets/img/demo-1/demo4.png> <i
                 class="icofont circled-icon icofont-image"></i></a></div>
     </div>
 </section>
@@ -449,25 +558,25 @@
                                 <form method='post'><input type='hidden' name='form-name' value='form 1' />
                                     <div class="row">
                                         <div class="col-md-6">
-                                            <input type="text" placeholder="Full Name" required>
+                                            <input name="mail_name" type="text" placeholder="Full Name" required>
                                         </div>
                                         <div class="col-md-6">
-                                            <input type="email" placeholder="E-Mail" required>
+                                            <input name="mail_email"type="email" placeholder="E-Mail" required>
                                         </div>
                                         <div class="col-md-12">
-                                            <input type="text" placeholder="Subject" required>
+                                            <input name="mail_subject" type="text" placeholder="Subject" required>
                                         </div>
                                         <div class="col-md-12">
-                                            <textarea name="Contact Message" id="msg-contact" placeholder="Your Message"
+                                            <textarea name="mail_message" id="msg-contact" placeholder="Your Message"
                                                 required></textarea>
                                         </div>
                                         <div class="col-md-12">
                                             <div class="butt-send">
-                                                <a href="#" class="bttn-applora-gradient">
+                                                <button href="#" class="bttn-applora-gradient">
                                                     <i class="icofont circled-icon icofont-email"
                                                         style="color:white;"></i>
                                                     <span>Send Message</span>
-                                                </a>
+                                                </button>
                                             </div>
                                         </div>
                                     </div>
@@ -493,7 +602,8 @@
             <div class="row xs-text-center">
                 <div class=col-sm-12>
                     <div class=footer-center>
-                        <p class="copyright-text text-center">Build With <i class="icofont icofont-2 icofont-ui-love "></i> in Brebes - Cirebon </p>
+                        <p class="copyright-text text-center">Build With <i
+                                class="icofont icofont-2 icofont-ui-love "></i> in Brebes - Cirebon </p>
                     </div>
                 </div>
                 <!-- <div class=col-sm-7>
