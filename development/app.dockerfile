@@ -33,3 +33,4 @@ RUN  apt-get install -y libmcrypt-dev \
 RUN mv .env.prod .env
 
 RUN php artisan key:generate
+RUN php artisan config:cache
