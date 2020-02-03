@@ -251,16 +251,16 @@
                             class=screenshot-overlay><a href=/assets/img/demo-1/demo1.png> <i
                             class="icofont circled-icon icofont-image"></i></a></div>
                 </div>
-                <div class=screenshot-item><img alt="App Landing Page" src=/assets/img/demo-1/demo2.png> <div
-                        class=screenshot-overlay><a href=/assets/img/demo-1/demo2.png> <i
+                <div class=screenshot-item><img alt="App Landing Page" src=/assets/img/demo-1/demo2.jpeg> <div
+                        class=screenshot-overlay><a href=/assets/img/demo-1/demo2.jpeg> <i
                         class="icofont circled-icon icofont-image"></i></a></div>
             </div>
-            <div class=screenshot-item><img alt="App Landing Page" src=/assets/img/demo-1/demo3.png> <div
-                    class=screenshot-overlay><a href=/assets/img/demo-1/demo3.png> <i
+            <div class=screenshot-item><img alt="App Landing Page" src=/assets/img/demo-1/demo3.jpeg> <div
+                    class=screenshot-overlay><a href=/assets/img/demo-1/demo3.jpeg> <i
                     class="icofont circled-icon icofont-image"></i></a></div>
         </div>
-        <div class=screenshot-item><img alt="App Landing Page" src=/assets/img/demo-1/demo4.png> <div
-                class=screenshot-overlay><a href=/assets/img/demo-1/demo4.png> <i
+        <div class=screenshot-item><img alt="App Landing Page" src=/assets/img/demo-1/demo4.jpeg> <div
+                class=screenshot-overlay><a href=/assets/img/demo-1/demo4.jpeg> <i
                 class="icofont circled-icon icofont-image"></i></a></div>
     </div>
 </section>
