@@ -247,8 +247,8 @@
             </div>
             <div class=row>
                 <div class=screenshots-slider>
-                    <div class=screenshot-item><img alt="App Landing Page" src=/assets/img/demo-1/demo1.png> <div
-                            class=screenshot-overlay><a href=/assets/img/demo-1/demo1.png> <i
+                    <div class=screenshot-item><img alt="App Landing Page" src=/assets/img/demo-1/demo1.jpeg> <div
+                            class=screenshot-overlay><a href=/assets/img/demo-1/demo1.jpeg> <i
                             class="icofont circled-icon icofont-image"></i></a></div>
                 </div>
                 <div class=screenshot-item><img alt="App Landing Page" src=/assets/img/demo-1/demo2.jpeg> <div
