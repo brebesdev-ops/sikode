@@ -21,8 +21,6 @@ RUN php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');" \
 
 COPY . /var/www
 
-RUN chown -R www-data:www-data  /var/www/storage/
-RUN chown -R www-data:www-data  /var/www/bootstrap/cache/
 
 RUN  apt-get install -y libmcrypt-dev \
         libmagickwand-dev --no-install-recommends \
@@ -31,8 +29,5 @@ RUN  apt-get install -y libmcrypt-dev \
         && docker-php-ext-enable mcrypt
 
 RUN mv .env.prod .env
-
-
-RUN APP_KEY=base64:t1Otp0OeegWuO/WBrsIrGseYOl+JwPs6l9YDpFRvRTw=
-RUN php artisan config:cache
+RUN php artisan key:ganerate
 
