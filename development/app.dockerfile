@@ -29,5 +29,5 @@ RUN  apt-get install -y libmcrypt-dev \
         && docker-php-ext-enable mcrypt
 
 RUN mv .env.prod .env
-RUN php artisan key:ganerate
+RUN php artisan key:generate
 
