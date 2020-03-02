@@ -22,7 +22,7 @@ RUN php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');" \
 COPY . /var/www
 
 
-RUN  apt-get install -y libmcrypt-dev \
+RUN  apt-get update -y && apt-get install -y libmcrypt-dev \
         libmagickwand-dev --no-install-recommends \
         && pecl install mcrypt-1.0.2 \
         && docker-php-ext-install pdo_mysql \
